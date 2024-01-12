@@ -1,3 +1,3 @@
-first_name=('Alexander')
-last_name=('Belinskiy')
-input('Меня зовут' +  first_name   +  last_name)
+first_name=input('Alexander')
+last_name=input('Belinskiy')
+print('Меня зовут:' , last_name,  first_name)

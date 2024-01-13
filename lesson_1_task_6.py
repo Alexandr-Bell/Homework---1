@@ -19,6 +19,7 @@ def print_6():
 def print_7():
     print(7)
 
+
 def print_8():
     print(8)
 
@@ -26,16 +27,7 @@ def print_9():
     print(9)
 
 def print_0():
-    print(0)
+    print_(0)
 
-print(8)
-print(8)
-print(0)
-print(0)
-print(5)
-print(5)
-print(5)
-print(3)
-print(5)
-print(3)
-print(5)
+
+print(88005553535)   

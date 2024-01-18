@@ -1,3 +1,7 @@
-first_name=input('Alexander')
-last_name=input('Belinskiy')
-print('Меня зовут:' , last_name,  first_name)
+first_name = input("Мое имя:")
+
+last_name = input("Моя фамилия:")
+
+print(first_name + last_name)
+
+# если я правильно понял то имя и фамилию с консоли тоже вводить...
